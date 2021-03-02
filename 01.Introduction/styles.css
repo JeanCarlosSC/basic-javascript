@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: aqua;
+    text-align: center;
+    font-family: serif;
+}
+
+p {
+    color: aliceblue;
+}
+
+#image {
+    width: 100px;
+}
+
+#text3 {
+    display: none;
+}
